@@ -1,3 +1,3 @@
-# datasciencecoursera
-training for Toolbox
+## datasciencecoursera
+*training for Toolbox
 first experience with git
